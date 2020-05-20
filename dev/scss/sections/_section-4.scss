@@ -1,0 +1,23 @@
+/* =============
+    Section-4
+============= */
+#section-4 {
+    >div {
+        text-align: center;
+
+        h2 {
+            color: black;
+            font-family: 'Comfortaa', cursive;
+            font-size: rem-calc(55);
+            font-weight: 700;
+            line-height: rem-calc(55)
+        }
+    }
+    >div {
+    background-image: url('../img/4141.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 320px;
+    width: 320px;
+    }
+}
